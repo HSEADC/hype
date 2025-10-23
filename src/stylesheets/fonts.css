@@ -1,4 +1,4 @@
-@font-face{
+/* @font-face{
     font-family: 'PT Root UI';
     src: url('../fonts/pt-root-ui_bold.woff'),
         url('../fonts/pt-root-ui_bold.woff2');
@@ -21,4 +21,14 @@
     src: url('../fonts/pt-root-ui_light.woff'),
         url('../fonts/pt-root-ui_light.woff2');
     font-weight: 300;
+} */
+@font-face {
+  font-family: 'Handil Pro';
+  src: url('../fonts/HandilPro-Medium.woff');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'IdealistSans';
+  src: url('../fonts/IdealistSans-Light.woff');
+  font-weight: 300;
 }
